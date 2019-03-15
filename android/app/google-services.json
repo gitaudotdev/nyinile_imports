@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "137629442992",
+    "firebase_url": "https://nyinile-importers.firebaseio.com",
+    "project_id": "nyinile-importers",
+    "storage_bucket": "nyinile-importers.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:137629442992:android:d68c00451003141a",
+        "android_client_info": {
+          "package_name": "com.omwa.nyinileimports"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "137629442992-7e8ni9dlknvg8nvt9ucfstna8una8l4j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.omwa.nyinileimports",
+            "certificate_hash": "c5fb09307807ea153dbea7041cc6ec0447fff3f1"
+          }
+        },
+        {
+          "client_id": "137629442992-ans164br9sdme0oghu1i318u218k9chq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2p2wmBqZLwOSF4O8Fv64baZawV0YLpBY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "137629442992-ans164br9sdme0oghu1i318u218k9chq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
